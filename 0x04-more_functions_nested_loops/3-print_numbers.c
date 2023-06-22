@@ -1,12 +1,11 @@
  #include "main.h"
 
 /**
- * main - check the code
+ * prints the numbers, from 0 to 9
  *
- * Return: Always 0.
+ * Return: The number from 0 to 9
  */
-int main(void)
-
+void print_numbers(void)
 {
 	int x;
 
